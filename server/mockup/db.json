@@ -1,0 +1,326 @@
+{
+    "hotels": [
+      {
+        "id": 45454,
+        "name": "gabriel",
+        "address": "abinante",
+        "imageMain": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "imageGalleries":[],
+        "rating": 3,
+        "reviewScore": 9,
+        "reviewTotal": 8,
+        "price": 5000,
+        "discountPercent": 44,
+        "exception": "",
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Morocco",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 5443,
+        "name": "mark",
+        "address": "abramson",
+        "imageMain": "https://images.pexels.com/photos/573552/pexels-photo-573552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "imageGalleries":[],
+        "rating": 1,
+        "reviewScore": 7,
+        "reviewTotal": 8,
+        "price": 4974,
+        "discountPercent": 44,
+        "exception": "Exceptional price for this location",
+        "urgent": "",
+        "country": "Canada",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 44364,
+        "name": "vidya vrat",
+        "address": "agarwal",
+        "imageMain": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "exception": "",
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Japan",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7328,
+        "name": "Roomba meets Watson - get familiar with the Voice of AI LAB",
+        "address": "I will show at my speaking session how you can quickly and securely turn a simple idea into reality, ",
+        "exception": "Marek Sadowski",
+        "imageMain": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Portugal",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7329,
+        "name": "Introduction to Cloud Functions LAB",
+        "address": "In this session, learn about Cloud Functions and how they change the way a developer builds a traditional ",
+        "exception": "Jeancarl Bisson",
+        "imageMain": "https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Mexico",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7330,
+        "name": "It takes an open source village to raise a robot LAB",
+        "address": "Come learn about TJBot, IBM Watson's first Maker Kit powered by a Raspb ",
+        "exception": "Jeancarl Bisson",
+        "imageMain": "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Ireland",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7331,
+        "name": "Blockchain App UX Capture & Replay",
+        "address": "Blockchain mobile apps are becoming another major i",
+        "exception": "changjie yang",
+        "imageMain": "https://images.pexels.com/photos/6490/people-hotel-bar-drinks.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Netherlands",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7332,
+        "name": "GitOps: operations by pull-request",
+        "address": "In this talk, Ilya will describe how Weaveworks team manages apps in",
+        "exception": "Ilya Dmitrichenko",
+        "imageMain": "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Sri Lanka",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7333,
+        "name": "Machine Learning Intro for Anyone and Everyone",
+        "address": "This session provides a fun and simple way to introduce Machine Lean",
+        "exception": "Raju Shreewastava",
+        "imageMain": "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Vietnam",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7334,
+        "name": "Artificial Intelligence for everyone, even you",
+        "address": "We've made it. Science fiction is now science fact. Hardware, softw",
+        "exception": "Jerry Nixon",
+        "imageMain": "https://images.pexels.com/photos/6534/holiday-vacation-hotel-luxury.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "South Africa",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7335,
+        "name": "Fun Introduction to Data in Software for Non-Techies",
+        "address": "Ninety percent of the data in the world today has been created in the last tw",
+        "exception": "Leslie Pound",
+        "imageMain": "https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "Turkey",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7336,
+        "name": "Rock Your Code Quality ",
+        "address": "Code quality starts with you, the developer. If you are writing your first app or have been thr",
+        "exception": "David McCarter",
+        "imageMain": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "India",
+        "offers": [],
+        "options": []
+      },
+      {
+        "id": 7337,
+        "name": "Using Twilio and .NET to Save the World... One Text at a Time",
+        "address": "If you ever wanted to see how Twilio is bringing the power of communications to everyone, come check out ho",
+        "exception": "Corey Weathers",
+        "imageMain": "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "imageGalleries":[],
+        "rating": 2,
+        "reviewScore": 6,
+        "reviewTotal": 8,
+        "price": 2000,
+        "discountPercent": 44,
+        "urgent": "4 travelers are considering this property right now",
+        "country": "New Zealand",
+        "offers": [],
+        "options": []
+      }
+    ],
+    "suggests": [
+      {
+        "id": 1,
+        "name":  "Morocco",
+        "score": 61
+      },
+      {
+        "id": 2,
+        "name":  "Canada",
+        "score": 35
+      },
+      {
+        "id": 3,
+        "name":  "Japan",
+        "score": 52
+      },
+      {
+        "id": 4,
+        "name":  "Portugal",
+        "score": 17
+      },
+      {
+        "id": 5,
+        "name":  "Mexico",
+        "score": 46
+      },
+      {
+        "id": 6,
+        "name":  "Ireland",
+        "score": 45
+      },
+      {
+        "id": 7,
+        "name":  "Netherlands",
+        "score": 59
+      },
+      {
+        "id": 8,
+        "name":  "Sri Lanka",
+        "score": 31
+      },
+      {
+        "id": 9,
+                "name":  "Vietnam",
+        "score": 42
+      },
+      {
+        "id": 10,
+                "name":  "South Africa",
+        "score": 95
+      },
+      {
+        "id": 11,
+                "name":  "India",
+        "score": 14
+      },
+      {
+        "id": 12,
+                "name":  "Turkey",
+        "score": 12
+      },
+      {
+        "id": 13,
+                "name":  "Thailand",
+        "score": 99
+      },
+      {
+        "id": 14,
+                "name":  "New Zealand",
+        "score": 86
+      }
+    ],
+    "hostInfos": [
+      { 
+        "id": 1,
+        "type": "space",
+        "title": "User Space", 
+        "spaceUsed": 49,
+        "spaceTotal": 50,
+        "text": "Get More Space",
+        "warning": true
+      } , { 
+        "id": 2,
+        "type": "revenue",
+          "title": "Revenue", 
+          "revenue": 34245,
+          "text": "Last 24 Hours"
+      } , { 
+        "id": 3,
+        "type": "bug",
+          "bug": 75,
+          "title": "To fix Issues", 
+          "text": "Tracked from Github" 
+      } , { 
+        "id": 4,
+        "type": "fixedBug",
+          "bug": 75,
+          "title": "Fixed Issues", 
+          "text": "Just Updated"
+      }
+    ]
+  }

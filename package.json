@@ -7,6 +7,8 @@
     "@types/node": "^12.6.8",
     "@types/react": "^16.8.24",
     "@types/react-dom": "^16.8.5",
+    "jsonserver": "^0.1.6",
+    "nodemon": "^1.19.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
@@ -16,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "jsonserver": "nodemon server/jsonserver.js",
+    "dev": "npm-run-all --parallel start jsonserver"
   },
   "eslintConfig": {
     "extends": "react-app"
